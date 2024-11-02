@@ -13,6 +13,7 @@ public class Exercicio05 {
 
         System.out.println(lista);
 
+        // não preciso referenciar o nome da classe dentro dela mesma
         inverte(lista);
 
         System.out.println(lista);

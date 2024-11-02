@@ -1,10 +1,8 @@
 package Exercicios.Exercicio06;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-// Arquivo Exercicio06.java
 public class Exercicio06 {
     public static void main(String[] args) {
         Queue<String> fila = new LinkedList<>();
@@ -37,6 +35,6 @@ public class Exercicio06 {
                         break;
                 }
             }
-        } while (!opcao.equals("c"));
+        } while (!opcao.equals("c")); // isso aqui é erro de lógica!
     }
 }

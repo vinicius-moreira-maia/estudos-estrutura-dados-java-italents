@@ -1,5 +1,4 @@
 package modulo01.Exercicios.Exercicio10;
-
 import java.util.Scanner;
 
 public class Estoque {

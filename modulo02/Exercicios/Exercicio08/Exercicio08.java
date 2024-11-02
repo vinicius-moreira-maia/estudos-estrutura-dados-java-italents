@@ -1,9 +1,7 @@
 package Exercicios.Exercicio08;
-
 import java.util.HashMap;
 import java.util.Map;
 
-// Arquivo Exercicio08.java
 public class Exercicio08 {
     public static void main(String[] args) {
         Map<String, Integer> dict = new HashMap<>();

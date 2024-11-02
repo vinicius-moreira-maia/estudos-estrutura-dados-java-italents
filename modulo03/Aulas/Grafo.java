@@ -28,7 +28,6 @@ public class Grafo {
         adjacencias[vertice2].add(vertice1);
     }
 
-
     public static void main(String[] args) {
         Grafo grafo = new Grafo(5);
 
@@ -43,6 +42,5 @@ public class Grafo {
 
         // mostrando as conexões do nó 0
         System.out.println(grafo.adjacencias[0]);
-
     }
 }

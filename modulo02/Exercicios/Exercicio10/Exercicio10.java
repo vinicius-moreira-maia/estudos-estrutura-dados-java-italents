@@ -1,8 +1,6 @@
 package Exercicios.Exercicio10;
-
 import java.util.ArrayList;
 
-// Arquivo Exercicio10.java
 public class Exercicio10 {
     public static void main(String[] args) {
         ArrayList<Integer> lista = new ArrayList<>();

@@ -1,18 +1,15 @@
 package Exercicios.Exercicio03;
 import java.util.ArrayList;
 
-// Arquivo Exercicio03.java
 public class Exercicio03 {
     public static void main(String[] args) {
         ArrayList<Integer> lista1 = new ArrayList<>();
         ArrayList<Integer> lista2 = new ArrayList<>();
 
-        // lista com elementos duplicados
         for (int i = 0; i <= 10; i += 2){
             lista1.add(i);
         }
 
-        // lista com elementos duplicados
         for (int i = 1; i <= 10; i += 2){
             lista2.add(i);
         }

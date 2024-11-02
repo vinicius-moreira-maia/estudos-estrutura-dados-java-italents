@@ -8,7 +8,6 @@ import java.util.Deque;
  existir um par correspondente que o fecha.
  */
 
-
 public class Exercicio04 {
     public static void main(String[] args) {
         String expressao = "((2 + 3 * (4 - 5))"; 
@@ -26,7 +25,7 @@ public class Exercicio04 {
         Deque<Character> pilha = new ArrayDeque<>();
 
         // empilhando o parentese de abertura (
-        // checando para ver se exste um par ) correspondente
+        // checando para ver se existe um par ) correspondente
         // se existir, desempilha
         // se for achado um ) com a pilha vazia, não está balanceada
         // se a pilha não estiver vazia no final, não está balanceada

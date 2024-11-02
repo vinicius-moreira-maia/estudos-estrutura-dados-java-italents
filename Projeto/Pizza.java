@@ -52,7 +52,4 @@ public class Pizza {
     public void setTamanho(TamanhoPizza tamanho){
         this.tamanho = tamanho;
     }
-
-    
-    
 }

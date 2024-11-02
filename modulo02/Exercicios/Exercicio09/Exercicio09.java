@@ -1,9 +1,7 @@
 package Exercicios.Exercicio09;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
 
 public class Exercicio09 {
     public static void main(String[] args) {

@@ -37,8 +37,8 @@ public class Variaveis {
         System.out.println(nome.toUpperCase()); // método de String
 
         /* 
-           - Enum (coleção de constantes/palavras)
-             É um tipo especial de classe. Pode ter métodos, atributos e construtores. Portanto variáveis do tipo 'Dia' só 
+           - Enum (coleção de constantes)
+             É um tipo especial de classe. Pode ter métodos, atributos e construtores. Variáveis do tipo 'Dia' só 
              podem assumir os valores do Enum.
         */
         
