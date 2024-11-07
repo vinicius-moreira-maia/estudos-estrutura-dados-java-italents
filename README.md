@@ -1,5 +1,6 @@
 # Estruturas de Dados - ITalents/TODXS
 Repositório criado para armazenar os códigos do curso de Estrutura de Dados da ITalens, em parceria com a TODXS.
+Este curso foi a etapa 2 de 3.
 
 Este curso consistiu em:
 1. Introdução ao Java, introdução à POO e vetores/matrizes.
