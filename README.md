@@ -2,7 +2,7 @@
 Repositório criado para armazenar os códigos do curso de Estrutura de Dados da ITalens, em parceria com a TODXS.
 Este curso foi a etapa 2 de 3.
 
-Este curso consistiu em:
+Tópicos abordados:
 1. Introdução ao Java, introdução à POO e vetores/matrizes.
 2. Estruturas de Dados nativas: Listas, Filas, Pilhas e Hash Map's.
 3. Algoritmos de Busca e Ordenação.
